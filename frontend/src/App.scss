@@ -1,0 +1,10 @@
+// @import "~bootstrap/scss/bootstrap";
+@import "./scss/custom.scss";
+@import "./scss/fonsts.scss";
+@import "./scss/general.scss";
+@import "./scss/media/media-md.scss";
+@import "./scss/userbar.scss";
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
